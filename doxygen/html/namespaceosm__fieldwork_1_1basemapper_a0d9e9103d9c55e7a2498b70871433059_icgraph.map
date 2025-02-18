@@ -1,0 +1,6 @@
+<map id="osm_fieldwork.basemapper.move_tiles" name="osm_fieldwork.basemapper.move_tiles">
+<area shape="rect" id="Node000001" title=" " alt="" coords="292,22,535,62"/>
+<area shape="rect" id="Node000002" href="$namespaceosm__fieldwork_1_1basemapper.html#a03642f481b568a585204e6e78e6e3d0a" title=" " alt="" coords="5,29,244,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="279,45,244,45,244,39,279,39"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="176,21,174,16,165,12,125,8,94,10,77,15,74,20,82,27,78,31,68,21,74,11,93,5,125,3,166,7,178,12,181,18"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="osm_fieldwork.convert.Convert.convertMultiple" name="osm_fieldwork.convert.Convert.convertMultiple">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,284,67"/>
+<area shape="rect" id="Node000002" href="$classosm__fieldwork_1_1convert_1_1Convert.html#a7077078b20034675974d6b8894896748" title=" " alt="" coords="332,5,641,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,33,325,29,325,35,284,38"/>
+<area shape="rect" id="Node000003" href="$classosm__fieldwork_1_1yamlfile_1_1YamlFile.html#a0679687b225012bf333ff89045f5b0fc" title=" " alt="" coords="382,55,591,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="284,56,368,63,368,68,284,61"/>
+</map>

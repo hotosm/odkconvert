@@ -1,0 +1,9 @@
+<map id="osm_fieldwork.parsers.ODKParsers" name="osm_fieldwork.parsers.ODKParsers">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,905,247,1231"/>
+<area shape="rect" id="Node000002" href="$classosm__fieldwork_1_1convert_1_1Convert.html" title=" " alt="" coords="17,372,235,857"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,871,129,905,123,905,123,871"/>
+<area shape="rect" id="Node000003" href="$classosm__fieldwork_1_1yamlfile_1_1YamlFile.html" title=" " alt="" coords="14,119,238,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,338,129,372,123,372,123,338"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="99,5,153,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,84,129,119,123,119,123,84"/>
+</map>

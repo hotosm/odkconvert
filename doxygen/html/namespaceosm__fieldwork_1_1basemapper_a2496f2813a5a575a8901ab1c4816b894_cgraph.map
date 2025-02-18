@@ -1,0 +1,5 @@
+<map id="osm_fieldwork.basemapper.download_tile" name="osm_fieldwork.basemapper.download_tile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,301,31"/>
+<area shape="rect" id="Node000002" href="$namespaceosm__fieldwork_1_1basemapper.html#afff28858c010062c5d5d5f10f0803951" title=" " alt="" coords="349,5,623,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,15,336,15,336,21,302,21"/>
+</map>

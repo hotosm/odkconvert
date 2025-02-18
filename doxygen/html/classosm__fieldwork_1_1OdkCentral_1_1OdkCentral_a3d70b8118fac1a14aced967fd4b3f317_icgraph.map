@@ -1,0 +1,11 @@
+<map id="osm_fieldwork.OdkCentral.OdkCentral.listProjects" name="osm_fieldwork.OdkCentral.OdkCentral.listProjects">
+<area shape="rect" id="Node000001" title=" " alt="" coords="499,49,697,89"/>
+<area shape="rect" id="Node000002" href="$classosm__fieldwork_1_1OdkCentral_1_1OdkCentral.html#a6e674a702e1164dd3ffcddb367611f38" title=" " alt="" coords="5,5,204,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,49,450,40,322,30,204,27,204,21,322,24,451,35,505,44"/>
+<area shape="rect" id="Node000003" href="$classosm__fieldwork_1_1OdkCentral_1_1OdkCentral.html#a853590dbaec6c2f171bd79ea17f62f69" title=" " alt="" coords="5,81,204,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="507,95,451,104,322,111,204,110,204,104,322,106,450,99,506,90"/>
+<area shape="rect" id="Node000004" href="$classosm__fieldwork_1_1OdkCentral_1_1OdkCentral.html#a6606a3f0c0c605972edb9956ddcdb5d0" title=" " alt="" coords="252,49,451,89"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="485,72,451,72,451,67,485,67"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="238,52,204,46,205,40,239,47"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="239,87,205,91,204,86,238,81"/>
+</map>

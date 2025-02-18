@@ -1,0 +1,19 @@
+<map id="osm_fieldwork.convert.Convert.convertData" name="osm_fieldwork.convert.Convert.convertData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="651,109,960,134"/>
+<area shape="rect" id="Node000002" href="$classosm__fieldwork_1_1convert_1_1Convert.html#a52bdf8707472b22b89e2b17768280655" title=" " alt="" coords="324,69,603,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="656,110,603,105,603,100,656,105"/>
+<area shape="rect" id="Node000007" href="$classosm__fieldwork_1_1convert_1_1Convert.html#a62ee0789c890fed2f2390484ce6e7bfe" title=" " alt="" coords="324,133,603,173"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="656,138,603,143,603,138,656,133"/>
+<area shape="rect" id="Node000003" href="$classosm__fieldwork_1_1convert_1_1Convert.html#a72dc189b5cf147a818d6e340e9be3528" title=" " alt="" coords="5,133,276,173"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="349,115,243,136,241,131,348,109"/>
+<area shape="rect" id="Node000004" href="$classosm__fieldwork_1_1parsers_1_1ODKParsers.html#a806fb3fda7ee276240ab26ca0355a818" title=" " alt="" coords="14,197,267,237"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="336,117,326,123,310,138,302,154,294,171,278,187,255,200,252,195,274,183,290,168,298,152,306,135,322,119,333,113"/>
+<area shape="rect" id="Node000005" href="$classosm__fieldwork_1_1parsers_1_1ODKParsers.html#ad0467157580fce06bcfae37ba5ea9929" title=" " alt="" coords="14,5,267,45"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="348,69,241,48,243,43,349,64"/>
+<area shape="rect" id="Node000006" href="$classosm__fieldwork_1_1parsers_1_1ODKParsers.html#a75b8e90709860ac93138807bb0e4e4a5" title=" " alt="" coords="14,69,267,109"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="310,92,267,92,267,87,310,87"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="310,156,276,156,276,151,310,151"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="349,179,243,200,241,195,348,173"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="333,130,322,123,306,107,298,91,290,74,274,59,252,48,255,43,278,55,294,71,302,88,310,104,326,119,336,125"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="348,133,241,112,243,107,349,128"/>
+</map>

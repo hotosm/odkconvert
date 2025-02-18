@@ -1,0 +1,43 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,557,68,582"/>
+<area shape="rect" id="Node000001" href="$classosm__fieldwork_1_1OdkCentral_1_1OdkCentral.html" title=" " alt="" coords="133,133,331,173"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="38,543,46,492,60,425,82,351,114,280,134,248,159,218,205,172,209,175,163,222,139,251,118,283,87,353,66,426,51,493,44,543"/>
+<area shape="rect" id="Node000006" href="$classosm__fieldwork_1_1OdkCentralAsync_1_1OdkCentral.html" title=" " alt="" coords="135,293,329,333"/>
+<area shape="poly" id="edge6_Node000000_Node000006" title=" " alt="" coords="37,542,43,499,55,446,78,391,94,366,114,343,133,330,136,334,118,347,99,369,83,393,61,447,48,500,42,543"/>
+<area shape="rect" id="Node000010" href="$classosm__fieldwork_1_1basemapper_1_1BaseMapper.html" title=" " alt="" coords="129,357,335,397"/>
+<area shape="poly" id="edge10_Node000000_Node000010" title=" " alt="" coords="41,542,50,511,65,475,86,438,114,407,133,395,136,400,118,411,90,442,70,477,55,513,46,544"/>
+<area shape="rect" id="Node000011" href="$classosm__fieldwork_1_1filter__data_1_1FilterData.html" title=" " alt="" coords="157,421,307,461"/>
+<area shape="poly" id="edge11_Node000000_Node000011" title=" " alt="" coords="50,543,76,506,94,487,115,471,155,452,157,457,117,476,98,491,81,510,54,547"/>
+<area shape="rect" id="Node000012" href="$classosm__fieldwork_1_1make__data__extract_1_1MakeExtract.html" title=" " alt="" coords="134,485,330,525"/>
+<area shape="poly" id="edge12_Node000000_Node000012" title=" " alt="" coords="78,549,115,535,153,523,155,528,117,540,80,554"/>
+<area shape="rect" id="Node000013" href="$classosm__fieldwork_1_1odk__client_1_1OdkClient.html" title=" " alt="" coords="136,549,328,589"/>
+<area shape="poly" id="edge13_Node000000_Node000013" title=" " alt="" coords="82,567,136,567,136,572,82,572"/>
+<area shape="rect" id="Node000014" href="$classosm__fieldwork_1_1osmfile_1_1OsmFile.html" title=" " alt="" coords="119,614,345,639"/>
+<area shape="poly" id="edge14_Node000000_Node000014" title=" " alt="" coords="79,585,117,599,165,611,163,617,115,604,77,590"/>
+<area shape="rect" id="Node000015" href="$classosm__fieldwork_1_1sqlite_1_1DataFile.html" title=" " alt="" coords="125,663,339,689"/>
+<area shape="poly" id="edge15_Node000000_Node000015" title=" " alt="" coords="57,591,83,622,117,648,147,661,145,666,115,653,79,625,53,595"/>
+<area shape="rect" id="Node000016" href="$classosm__fieldwork_1_1sqlite_1_1MapTile.html" title=" " alt="" coords="125,713,339,738"/>
+<area shape="poly" id="edge16_Node000000_Node000016" title=" " alt="" coords="49,594,74,647,93,675,118,698,141,710,138,715,114,702,89,678,69,650,44,596"/>
+<area shape="rect" id="Node000017" href="$classosm__fieldwork_1_1support_1_1OutSupport.html" title=" " alt="" coords="133,763,331,803"/>
+<area shape="poly" id="edge17_Node000000_Node000017" title=" " alt="" coords="45,595,53,630,67,671,88,712,118,747,137,760,134,765,114,751,84,715,62,673,48,631,40,596"/>
+<area shape="rect" id="Node000018" href="$classosm__fieldwork_1_1yamlfile_1_1YamlFile.html" title=" " alt="" coords="116,827,348,853"/>
+<area shape="poly" id="edge18_Node000000_Node000018" title=" " alt="" coords="41,596,45,643,57,702,80,762,97,789,118,813,136,825,133,829,114,817,92,792,75,764,51,703,40,644,36,596"/>
+<area shape="rect" id="Node000002" href="$classosm__fieldwork_1_1OdkCentral_1_1OdkAppUser.html" title=" " alt="" coords="409,5,608,45"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="272,124,329,89,395,55,427,43,429,48,397,60,331,93,275,128"/>
+<area shape="rect" id="Node000003" href="$classosm__fieldwork_1_1OdkCentral_1_1OdkDataset.html" title=" " alt="" coords="409,69,608,109"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="332,128,421,107,422,112,333,133"/>
+<area shape="rect" id="Node000004" href="$classosm__fieldwork_1_1OdkCentral_1_1OdkForm.html" title=" " alt="" coords="409,133,608,173"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="345,151,409,151,409,156,345,156"/>
+<area shape="rect" id="Node000005" href="$classosm__fieldwork_1_1OdkCentral_1_1OdkProject.html" title=" " alt="" coords="409,197,608,237"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="333,174,422,195,421,200,332,179"/>
+<area shape="rect" id="Node000007" href="$classosm__fieldwork_1_1OdkCentralAsync_1_1OdkDataset.html" title=" " alt="" coords="411,261,606,301"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="343,298,411,290,411,295,344,303"/>
+<area shape="rect" id="Node000008" href="$classosm__fieldwork_1_1OdkCentralAsync_1_1OdkForm.html" title=" " alt="" coords="411,325,606,365"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="344,324,411,331,411,337,343,329"/>
+<area shape="rect" id="Node000009" href="$classosm__fieldwork_1_1OdkCentralAsync_1_1OdkProject.html" title=" " alt="" coords="411,389,606,429"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="331,335,349,343,373,359,397,375,427,387,425,392,395,380,371,364,347,348,329,340"/>
+<area shape="rect" id="Node000019" href="$classosm__fieldwork_1_1convert_1_1Convert.html" title=" " alt="" coords="396,827,621,853"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="362,837,396,837,396,843,362,843"/>
+<area shape="rect" id="Node000020" href="$classosm__fieldwork_1_1parsers_1_1ODKParsers.html" title=" " alt="" coords="669,827,919,853"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="635,837,669,837,669,843,635,843"/>
+</map>

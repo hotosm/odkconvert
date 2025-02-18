@@ -1,0 +1,8 @@
+<map id="osm_fieldwork.OdkCentral.OdkCentral.deleteProject" name="osm_fieldwork.OdkCentral.OdkCentral.deleteProject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,204,75"/>
+<area shape="rect" id="Node000002" href="$classosm__fieldwork_1_1OdkCentral_1_1OdkCentral.html#a6606a3f0c0c605972edb9956ddcdb5d0" title=" " alt="" coords="252,5,451,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,40,238,36,239,41,205,46"/>
+<area shape="rect" id="Node000003" href="$classosm__fieldwork_1_1OdkCentral_1_1OdkCentral.html#a3d70b8118fac1a14aced967fd4b3f317" title=" " alt="" coords="499,35,697,75"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="204,54,252,55,451,55,485,54,485,60,451,60,252,60,204,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,34,485,39,485,44,451,40"/>
+</map>

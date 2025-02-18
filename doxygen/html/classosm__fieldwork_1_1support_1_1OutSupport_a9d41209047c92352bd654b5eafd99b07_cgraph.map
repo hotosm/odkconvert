@@ -1,0 +1,15 @@
+<map id="osm_fieldwork.support.OutSupport.WriteData" name="osm_fieldwork.support.OutSupport.WriteData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,165,203,205"/>
+<area shape="rect" id="Node000002" href="$classosm__fieldwork_1_1support_1_1OutSupport.html#ad83587b1c7bdc0db41c3ba717a5928fc" title=" " alt="" coords="251,5,448,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,163,175,110,211,81,249,55,262,48,265,53,252,60,214,85,179,114,125,167"/>
+<area shape="rect" id="Node000003" href="$classosm__fieldwork_1_1support_1_1OutSupport.html#a00c211f33064569a68638cb9a6583ad9" title=" " alt="" coords="251,69,448,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,163,250,119,270,111,272,116,252,124,149,168"/>
+<area shape="rect" id="Node000004" href="$classosm__fieldwork_1_1support_1_1OutSupport.html#a8958e68bdd7dfee9757056f6728ac5d1" title=" " alt="" coords="251,133,448,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="203,170,237,165,238,171,203,175"/>
+<area shape="rect" id="Node000005" href="$classosm__fieldwork_1_1support_1_1OutSupport.html#ac26af63b7b25c9b02b29a4a5a92a0020" title=" " alt="" coords="251,197,448,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="203,196,238,200,237,205,203,201"/>
+<area shape="rect" id="Node000006" href="$classosm__fieldwork_1_1support_1_1OutSupport.html#a6ec1bcf98cc2558d1ae6acf6f93e01e3" title=" " alt="" coords="251,261,448,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="149,203,252,247,272,254,270,259,250,252,147,208"/>
+<area shape="rect" id="Node000007" href="$classosm__fieldwork_1_1support_1_1OutSupport.html#a8ec4f3cb89afbe863bcc308bc2517e7b" title=" " alt="" coords="251,325,448,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="125,204,179,257,214,286,252,311,265,318,262,322,249,316,211,290,175,261,121,207"/>
+</map>

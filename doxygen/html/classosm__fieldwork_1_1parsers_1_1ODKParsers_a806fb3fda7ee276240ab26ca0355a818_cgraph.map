@@ -1,0 +1,19 @@
+<map id="osm_fieldwork.parsers.ODKParsers.CSVparser" name="osm_fieldwork.parsers.ODKParsers.CSVparser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,259,95"/>
+<area shape="rect" id="Node000002" href="$classosm__fieldwork_1_1convert_1_1Convert.html#a52bdf8707472b22b89e2b17768280655" title=" " alt="" coords="307,87,585,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,86,293,89,293,94,259,91"/>
+<area shape="rect" id="Node000008" href="$classosm__fieldwork_1_1convert_1_1Convert.html#a62ee0789c890fed2f2390484ce6e7bfe" title=" " alt="" coords="307,23,585,63"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="259,60,293,56,293,62,259,65"/>
+<area shape="rect" id="Node000003" href="$classosm__fieldwork_1_1convert_1_1Convert.html#a7077078b20034675974d6b8894896748" title=" " alt="" coords="633,5,943,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="551,85,584,73,608,57,632,41,661,32,663,37,634,46,611,61,587,78,553,90"/>
+<area shape="rect" id="Node000004" href="$classosm__fieldwork_1_1yamlfile_1_1YamlFile.html#a0679687b225012bf333ff89045f5b0fc" title=" " alt="" coords="683,55,893,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="585,92,669,84,670,89,586,97"/>
+<area shape="rect" id="Node000005" href="$classosm__fieldwork_1_1convert_1_1Convert.html#a125f2dc0b15143a0f157c445c47dc6f5" title=" " alt="" coords="638,120,938,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="586,115,624,118,624,123,585,120"/>
+<area shape="rect" id="Node000006" href="$classosm__fieldwork_1_1convert_1_1Convert.html#a2f6f1798c866000e35438a8aa7217885" title=" " alt="" coords="649,170,927,210"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="518,125,634,155,674,164,672,170,633,161,516,130"/>
+<area shape="rect" id="Node000007" href="$classosm__fieldwork_1_1convert_1_1Convert.html#a6c89dfe9a4e7bb8a6913ad9bb3510fae" title=" " alt="" coords="991,170,1241,210"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="928,187,977,187,977,193,928,193"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="585,30,620,28,620,33,586,36"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="586,54,670,62,669,67,585,59"/>
+</map>

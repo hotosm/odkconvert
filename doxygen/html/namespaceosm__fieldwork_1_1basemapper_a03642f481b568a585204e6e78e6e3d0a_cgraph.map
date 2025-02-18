@@ -1,0 +1,12 @@
+<map id="osm_fieldwork.basemapper.main" name="osm_fieldwork.basemapper.main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,244,70"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="78,47,68,36,73,26,92,20,125,18,167,22,178,27,181,34,177,36,174,31,165,27,125,23,93,25,76,30,73,36,82,43"/>
+<area shape="rect" id="Node000002" href="$namespaceosm__fieldwork_1_1basemapper.html#a63db72b9048576e5bc5db0cc2c7d33c2" title=" " alt="" coords="292,5,539,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,42,278,38,279,43,241,47"/>
+<area shape="rect" id="Node000005" href="$namespaceosm__fieldwork_1_1basemapper.html#a0d9e9103d9c55e7a2498b70871433059" title=" " alt="" coords="294,69,537,109"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="241,67,281,72,280,77,240,73"/>
+<area shape="rect" id="Node000003" href="$namespaceosm__fieldwork_1_1basemapper.html#ae534c0b79c2d790f1e867979690a365b" title=" " alt="" coords="587,5,813,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="539,23,573,23,573,28,539,28"/>
+<area shape="rect" id="Node000004" href="$namespaceosm__fieldwork_1_1basemapper.html#a70f7e1fad95066c8bc37848a5a4a6e89" title=" " alt="" coords="861,5,1100,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="814,23,848,23,848,28,814,28"/>
+</map>
