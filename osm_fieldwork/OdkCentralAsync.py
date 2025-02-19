@@ -17,6 +17,7 @@
 #
 """The async counterpart to OdkCentral.py, an ODK Central API client."""
 
+import asyncio
 import logging
 import os
 from asyncio import gather
@@ -702,7 +703,7 @@ class OdkDataset(OdkCentral):
         projectId: int,
         datasetName: str,
         entities: list[EntityIn],
-    ) -> dict:
+    ) -> list:
         """Bulk create Entities in a project dataset (entity list).
 
         Args:
@@ -717,23 +718,41 @@ class OdkDataset(OdkCentral):
             dict: {'success': true}
                 When creating bulk entities ODK Central return this for now.
         """
-        # Validation
+        batch_size = 5000
+        concurrency = 5
         if not isinstance(entities, list):
             raise ValueError("Entities must be a list")
 
         log.info(f"Bulk uploading ({len(entities)}) Entities for ODK project ({projectId}) dataset ({datasetName})")
-        url = f"{self.base}projects/{projectId}/datasets/{datasetName}/entities"
-        payload = {"entities": entities, "source": {"name": "features.csv"}}
 
-        try:
-            async with self.session.post(url, ssl=self.verify, json=payload) as response:
-                response.raise_for_status()
-                log.info(f"Successfully created entities for ODK project ({projectId}) in dataset ({datasetName})")
-                return await response.json()
-        except aiohttp.ClientError as e:
-            msg = f"Failed to create Entities: {e}"
-            log.error(msg)
-            raise aiohttp.ClientError(msg) from e
+        url = f"{self.base}projects/{projectId}/datasets/{datasetName}/entities"
+
+        # Split entities into batches
+        batches = [entities[i : i + batch_size] for i in range(0, len(entities), batch_size)]
+
+        async def create_entity_batch(batch):
+            """Helper function to send a batch request."""
+            payload = {"entities": batch, "source": {"name": "features.csv"}}
+            try:
+                async with self.session.post(url, ssl=self.verify, json=payload) as response:
+                    response.raise_for_status()
+                    return await response.json()
+            except aiohttp.ClientError as e:
+                log.error(f"Failed to create batch of {len(batch)} entities: {e}")
+                return None
+
+        # Process batches with concurrency
+        # NOTE semaphore limits the number of simultaneous operations
+        semaphore = asyncio.Semaphore(concurrency)
+
+        async def batch_task(batch):
+            async with semaphore:
+                return await create_entity_batch(batch)
+
+        results = await asyncio.gather(*(batch_task(batch) for batch in batches))
+
+        log.info(f"Successfully created {len(entities)} entities in dataset ({datasetName})")
+        return results
 
     async def updateEntity(
         self,
